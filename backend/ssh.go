@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/juju/errors"
+	"github.com/jpatigny/errors"
 )
 
 // sshSession exists so we don't create a hard dependency on crypto/ssh.

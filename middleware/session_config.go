@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"strconv"
 
+	"github.com/jpatigny/errors"
 	"github.com/jpatigny/go-powershell/utils"
-	"github.com/juju/errors"
 )
 
 const (

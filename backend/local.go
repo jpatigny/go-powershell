@@ -6,7 +6,7 @@ import (
 	"io"
 	"os/exec"
 
-	"github.com/juju/errors"
+	"github.com/jpatigny/errors"
 )
 
 type Local struct{}
